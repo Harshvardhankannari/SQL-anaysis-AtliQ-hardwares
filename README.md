@@ -1,0 +1,1 @@
+# SQL-anaysis-AtliQ-hardwares
